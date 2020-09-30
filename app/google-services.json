@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "945645769377",
+    "firebase_url": "https://farmalook-41cee.firebaseio.com",
+    "project_id": "farmalook-41cee",
+    "storage_bucket": "farmalook-41cee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945645769377:android:4600ef4878a8c05baa16e0",
+        "android_client_info": {
+          "package_name": "com.upds.farmalook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945645769377-4n8fua22qupclrcp4bf5uat5apteg4uh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.upds.farmalook",
+            "certificate_hash": "8d562f48d1bd4302b93cc70ab28405ce4764168c"
+          }
+        },
+        {
+          "client_id": "945645769377-0u6kd0jo1e8n53plgboim93iqevipm2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjIdQ8xswsdKjvZoXEdyw6dDIdDllMR5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945645769377-0u6kd0jo1e8n53plgboim93iqevipm2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
